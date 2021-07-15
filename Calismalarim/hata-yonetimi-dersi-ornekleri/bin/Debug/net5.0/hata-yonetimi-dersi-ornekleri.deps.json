@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "hata-yonetimi-dersi-ornekleri/1.0.0": {
+        "runtime": {
+          "hata-yonetimi-dersi-ornekleri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hata-yonetimi-dersi-ornekleri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
