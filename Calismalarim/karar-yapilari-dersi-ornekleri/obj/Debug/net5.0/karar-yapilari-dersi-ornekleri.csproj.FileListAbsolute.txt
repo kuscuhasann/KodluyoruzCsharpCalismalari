@@ -1,0 +1,16 @@
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\karar-yapilari-dersi-ornekleri\bin\Debug\net5.0\karar-yapilari-dersi-ornekleri.exe
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\karar-yapilari-dersi-ornekleri\bin\Debug\net5.0\karar-yapilari-dersi-ornekleri.deps.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\karar-yapilari-dersi-ornekleri\bin\Debug\net5.0\karar-yapilari-dersi-ornekleri.runtimeconfig.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\karar-yapilari-dersi-ornekleri\bin\Debug\net5.0\karar-yapilari-dersi-ornekleri.runtimeconfig.dev.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\karar-yapilari-dersi-ornekleri\bin\Debug\net5.0\karar-yapilari-dersi-ornekleri.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\karar-yapilari-dersi-ornekleri\bin\Debug\net5.0\ref\karar-yapilari-dersi-ornekleri.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\karar-yapilari-dersi-ornekleri\bin\Debug\net5.0\karar-yapilari-dersi-ornekleri.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\karar-yapilari-dersi-ornekleri\obj\Debug\net5.0\karar-yapilari-dersi-ornekleri.csprojAssemblyReference.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\karar-yapilari-dersi-ornekleri\obj\Debug\net5.0\karar-yapilari-dersi-ornekleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\karar-yapilari-dersi-ornekleri\obj\Debug\net5.0\karar-yapilari-dersi-ornekleri.AssemblyInfoInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\karar-yapilari-dersi-ornekleri\obj\Debug\net5.0\karar-yapilari-dersi-ornekleri.AssemblyInfo.cs
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\karar-yapilari-dersi-ornekleri\obj\Debug\net5.0\karar-yapilari-dersi-ornekleri.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\karar-yapilari-dersi-ornekleri\obj\Debug\net5.0\karar-yapilari-dersi-ornekleri.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\karar-yapilari-dersi-ornekleri\obj\Debug\net5.0\ref\karar-yapilari-dersi-ornekleri.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\karar-yapilari-dersi-ornekleri\obj\Debug\net5.0\karar-yapilari-dersi-ornekleri.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\karar-yapilari-dersi-ornekleri\obj\Debug\net5.0\karar-yapilari-dersi-ornekleri.genruntimeconfig.cache
