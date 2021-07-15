@@ -76,7 +76,7 @@ namespace degiskenler_dersi_ornekleri
             Console.WriteLine(int21);// 42
 
             int int22=int20+int.Parse(str20);//42
-            //tarih getirmek icin kullandigimiz yapi
+            //tarih getirmek için kullandigimiz yapi
             string datetime=DateTime.Now.ToString("dd.MM.yyyy");
             Console.WriteLine(datetime);
 
