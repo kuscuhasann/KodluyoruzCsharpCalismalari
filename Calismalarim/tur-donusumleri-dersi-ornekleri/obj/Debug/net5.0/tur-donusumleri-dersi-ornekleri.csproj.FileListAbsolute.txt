@@ -1,0 +1,16 @@
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\tur-donusumleri-dersi-ornekleri\bin\Debug\net5.0\tur-donusumleri-dersi-ornekleri.exe
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\tur-donusumleri-dersi-ornekleri\bin\Debug\net5.0\tur-donusumleri-dersi-ornekleri.deps.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\tur-donusumleri-dersi-ornekleri\bin\Debug\net5.0\tur-donusumleri-dersi-ornekleri.runtimeconfig.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\tur-donusumleri-dersi-ornekleri\bin\Debug\net5.0\tur-donusumleri-dersi-ornekleri.runtimeconfig.dev.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\tur-donusumleri-dersi-ornekleri\bin\Debug\net5.0\tur-donusumleri-dersi-ornekleri.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\tur-donusumleri-dersi-ornekleri\bin\Debug\net5.0\ref\tur-donusumleri-dersi-ornekleri.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\tur-donusumleri-dersi-ornekleri\bin\Debug\net5.0\tur-donusumleri-dersi-ornekleri.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\tur-donusumleri-dersi-ornekleri\obj\Debug\net5.0\tur-donusumleri-dersi-ornekleri.csprojAssemblyReference.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\tur-donusumleri-dersi-ornekleri\obj\Debug\net5.0\tur-donusumleri-dersi-ornekleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\tur-donusumleri-dersi-ornekleri\obj\Debug\net5.0\tur-donusumleri-dersi-ornekleri.AssemblyInfoInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\tur-donusumleri-dersi-ornekleri\obj\Debug\net5.0\tur-donusumleri-dersi-ornekleri.AssemblyInfo.cs
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\tur-donusumleri-dersi-ornekleri\obj\Debug\net5.0\tur-donusumleri-dersi-ornekleri.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\tur-donusumleri-dersi-ornekleri\obj\Debug\net5.0\tur-donusumleri-dersi-ornekleri.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\tur-donusumleri-dersi-ornekleri\obj\Debug\net5.0\ref\tur-donusumleri-dersi-ornekleri.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\tur-donusumleri-dersi-ornekleri\obj\Debug\net5.0\tur-donusumleri-dersi-ornekleri.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\tur-donusumleri-dersi-ornekleri\obj\Debug\net5.0\tur-donusumleri-dersi-ornekleri.genruntimeconfig.cache
