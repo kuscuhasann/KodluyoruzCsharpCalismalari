@@ -1,0 +1,16 @@
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\donguler-dersi-ornekleri-while-foreach\bin\Debug\net5.0\donguler-dersi-ornekleri-while-foreach.exe
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\donguler-dersi-ornekleri-while-foreach\bin\Debug\net5.0\donguler-dersi-ornekleri-while-foreach.deps.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\donguler-dersi-ornekleri-while-foreach\bin\Debug\net5.0\donguler-dersi-ornekleri-while-foreach.runtimeconfig.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\donguler-dersi-ornekleri-while-foreach\bin\Debug\net5.0\donguler-dersi-ornekleri-while-foreach.runtimeconfig.dev.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\donguler-dersi-ornekleri-while-foreach\bin\Debug\net5.0\donguler-dersi-ornekleri-while-foreach.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\donguler-dersi-ornekleri-while-foreach\bin\Debug\net5.0\ref\donguler-dersi-ornekleri-while-foreach.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\donguler-dersi-ornekleri-while-foreach\bin\Debug\net5.0\donguler-dersi-ornekleri-while-foreach.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\donguler-dersi-ornekleri-while-foreach\obj\Debug\net5.0\donguler-dersi-ornekleri-while-foreach.csprojAssemblyReference.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\donguler-dersi-ornekleri-while-foreach\obj\Debug\net5.0\donguler-dersi-ornekleri-while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\donguler-dersi-ornekleri-while-foreach\obj\Debug\net5.0\donguler-dersi-ornekleri-while-foreach.AssemblyInfoInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\donguler-dersi-ornekleri-while-foreach\obj\Debug\net5.0\donguler-dersi-ornekleri-while-foreach.AssemblyInfo.cs
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\donguler-dersi-ornekleri-while-foreach\obj\Debug\net5.0\donguler-dersi-ornekleri-while-foreach.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\donguler-dersi-ornekleri-while-foreach\obj\Debug\net5.0\donguler-dersi-ornekleri-while-foreach.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\donguler-dersi-ornekleri-while-foreach\obj\Debug\net5.0\ref\donguler-dersi-ornekleri-while-foreach.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\donguler-dersi-ornekleri-while-foreach\obj\Debug\net5.0\donguler-dersi-ornekleri-while-foreach.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\donguler-dersi-ornekleri-while-foreach\obj\Debug\net5.0\donguler-dersi-ornekleri-while-foreach.genruntimeconfig.cache

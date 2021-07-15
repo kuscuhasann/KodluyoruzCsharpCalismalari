@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "donguler-dersi-ornekleri-while-foreach/1.0.0": {
+        "runtime": {
+          "donguler-dersi-ornekleri-while-foreach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "donguler-dersi-ornekleri-while-foreach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
