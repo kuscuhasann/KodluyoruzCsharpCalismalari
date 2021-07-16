@@ -1,0 +1,16 @@
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\diziler-dersi-ornekler-iki\bin\Debug\net5.0\diziler-dersi-ornekler-iki.exe
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\diziler-dersi-ornekler-iki\bin\Debug\net5.0\diziler-dersi-ornekler-iki.deps.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\diziler-dersi-ornekler-iki\bin\Debug\net5.0\diziler-dersi-ornekler-iki.runtimeconfig.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\diziler-dersi-ornekler-iki\bin\Debug\net5.0\diziler-dersi-ornekler-iki.runtimeconfig.dev.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\diziler-dersi-ornekler-iki\bin\Debug\net5.0\diziler-dersi-ornekler-iki.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\diziler-dersi-ornekler-iki\bin\Debug\net5.0\ref\diziler-dersi-ornekler-iki.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\diziler-dersi-ornekler-iki\bin\Debug\net5.0\diziler-dersi-ornekler-iki.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\diziler-dersi-ornekler-iki\obj\Debug\net5.0\diziler-dersi-ornekler-iki.csprojAssemblyReference.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\diziler-dersi-ornekler-iki\obj\Debug\net5.0\diziler-dersi-ornekler-iki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\diziler-dersi-ornekler-iki\obj\Debug\net5.0\diziler-dersi-ornekler-iki.AssemblyInfoInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\diziler-dersi-ornekler-iki\obj\Debug\net5.0\diziler-dersi-ornekler-iki.AssemblyInfo.cs
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\diziler-dersi-ornekler-iki\obj\Debug\net5.0\diziler-dersi-ornekler-iki.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\diziler-dersi-ornekler-iki\obj\Debug\net5.0\diziler-dersi-ornekler-iki.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\diziler-dersi-ornekler-iki\obj\Debug\net5.0\ref\diziler-dersi-ornekler-iki.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\diziler-dersi-ornekler-iki\obj\Debug\net5.0\diziler-dersi-ornekler-iki.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\diziler-dersi-ornekler-iki\obj\Debug\net5.0\diziler-dersi-ornekler-iki.genruntimeconfig.cache
