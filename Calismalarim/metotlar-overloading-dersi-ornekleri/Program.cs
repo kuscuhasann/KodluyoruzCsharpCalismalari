@@ -24,6 +24,7 @@ namespace metotlar_overloading_dersi_ornekleri
             //Metot Aşırı Yükleme-Overloading
             int ifade=99;
             metotlar.ekranaYazdir(ifade);
+
             
         }
     }
@@ -32,6 +33,7 @@ namespace metotlar_overloading_dersi_ornekleri
             
             toplam=a+b;
         }
+        //aşırı yükleme
         public void ekranaYazdir(string veri){
             Console.WriteLine(veri);
         }

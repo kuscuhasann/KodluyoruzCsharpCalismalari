@@ -1,0 +1,16 @@
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\rekursif-extension-fonksiyonlar-dersi-ornekleri\bin\Debug\net5.0\rekursif-extension-fonksiyonlar-dersi-ornekleri.exe
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\rekursif-extension-fonksiyonlar-dersi-ornekleri\bin\Debug\net5.0\rekursif-extension-fonksiyonlar-dersi-ornekleri.deps.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\rekursif-extension-fonksiyonlar-dersi-ornekleri\bin\Debug\net5.0\rekursif-extension-fonksiyonlar-dersi-ornekleri.runtimeconfig.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\rekursif-extension-fonksiyonlar-dersi-ornekleri\bin\Debug\net5.0\rekursif-extension-fonksiyonlar-dersi-ornekleri.runtimeconfig.dev.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\rekursif-extension-fonksiyonlar-dersi-ornekleri\bin\Debug\net5.0\rekursif-extension-fonksiyonlar-dersi-ornekleri.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\rekursif-extension-fonksiyonlar-dersi-ornekleri\bin\Debug\net5.0\ref\rekursif-extension-fonksiyonlar-dersi-ornekleri.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\rekursif-extension-fonksiyonlar-dersi-ornekleri\bin\Debug\net5.0\rekursif-extension-fonksiyonlar-dersi-ornekleri.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\rekursif-extension-fonksiyonlar-dersi-ornekleri\obj\Debug\net5.0\rekursif-extension-fonksiyonlar-dersi-ornekleri.csprojAssemblyReference.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\rekursif-extension-fonksiyonlar-dersi-ornekleri\obj\Debug\net5.0\rekursif-extension-fonksiyonlar-dersi-ornekleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\rekursif-extension-fonksiyonlar-dersi-ornekleri\obj\Debug\net5.0\rekursif-extension-fonksiyonlar-dersi-ornekleri.AssemblyInfoInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\rekursif-extension-fonksiyonlar-dersi-ornekleri\obj\Debug\net5.0\rekursif-extension-fonksiyonlar-dersi-ornekleri.AssemblyInfo.cs
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\rekursif-extension-fonksiyonlar-dersi-ornekleri\obj\Debug\net5.0\rekursif-extension-fonksiyonlar-dersi-ornekleri.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\rekursif-extension-fonksiyonlar-dersi-ornekleri\obj\Debug\net5.0\rekursif-extension-fonksiyonlar-dersi-ornekleri.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\rekursif-extension-fonksiyonlar-dersi-ornekleri\obj\Debug\net5.0\ref\rekursif-extension-fonksiyonlar-dersi-ornekleri.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\rekursif-extension-fonksiyonlar-dersi-ornekleri\obj\Debug\net5.0\rekursif-extension-fonksiyonlar-dersi-ornekleri.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\rekursif-extension-fonksiyonlar-dersi-ornekleri\obj\Debug\net5.0\rekursif-extension-fonksiyonlar-dersi-ornekleri.genruntimeconfig.cache
