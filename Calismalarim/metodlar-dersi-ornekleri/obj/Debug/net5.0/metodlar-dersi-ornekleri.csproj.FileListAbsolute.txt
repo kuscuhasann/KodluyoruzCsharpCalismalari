@@ -1,0 +1,16 @@
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\metodlar-dersi-ornekleri\bin\Debug\net5.0\metodlar-dersi-ornekleri.exe
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\metodlar-dersi-ornekleri\bin\Debug\net5.0\metodlar-dersi-ornekleri.deps.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\metodlar-dersi-ornekleri\bin\Debug\net5.0\metodlar-dersi-ornekleri.runtimeconfig.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\metodlar-dersi-ornekleri\bin\Debug\net5.0\metodlar-dersi-ornekleri.runtimeconfig.dev.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\metodlar-dersi-ornekleri\bin\Debug\net5.0\metodlar-dersi-ornekleri.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\metodlar-dersi-ornekleri\bin\Debug\net5.0\ref\metodlar-dersi-ornekleri.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\metodlar-dersi-ornekleri\bin\Debug\net5.0\metodlar-dersi-ornekleri.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\metodlar-dersi-ornekleri\obj\Debug\net5.0\metodlar-dersi-ornekleri.csprojAssemblyReference.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\metodlar-dersi-ornekleri\obj\Debug\net5.0\metodlar-dersi-ornekleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\metodlar-dersi-ornekleri\obj\Debug\net5.0\metodlar-dersi-ornekleri.AssemblyInfoInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\metodlar-dersi-ornekleri\obj\Debug\net5.0\metodlar-dersi-ornekleri.AssemblyInfo.cs
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\metodlar-dersi-ornekleri\obj\Debug\net5.0\metodlar-dersi-ornekleri.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\metodlar-dersi-ornekleri\obj\Debug\net5.0\metodlar-dersi-ornekleri.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\metodlar-dersi-ornekleri\obj\Debug\net5.0\ref\metodlar-dersi-ornekleri.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\metodlar-dersi-ornekleri\obj\Debug\net5.0\metodlar-dersi-ornekleri.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\metodlar-dersi-ornekleri\obj\Debug\net5.0\metodlar-dersi-ornekleri.genruntimeconfig.cache
