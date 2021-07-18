@@ -67,8 +67,6 @@ namespace string_metotlar_dersi_ornekleri
             Console.WriteLine(degisken.Substring(3));
             //4. indexten başlayarak 6 karakter getir.
             Console.WriteLine(degisken.Substring(4,6));
-            
-
         }
     }
 }
