@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "odev-bir-algoritma-sorulari/1.0.0": {
+        "runtime": {
+          "odev-bir-algoritma-sorulari.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "odev-bir-algoritma-sorulari/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

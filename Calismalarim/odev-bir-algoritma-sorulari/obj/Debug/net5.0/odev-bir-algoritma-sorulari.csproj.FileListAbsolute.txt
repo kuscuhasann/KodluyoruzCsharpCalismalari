@@ -1,0 +1,16 @@
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\odev-bir-algoritma-sorulari\bin\Debug\net5.0\odev-bir-algoritma-sorulari.exe
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\odev-bir-algoritma-sorulari\bin\Debug\net5.0\odev-bir-algoritma-sorulari.deps.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\odev-bir-algoritma-sorulari\bin\Debug\net5.0\odev-bir-algoritma-sorulari.runtimeconfig.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\odev-bir-algoritma-sorulari\bin\Debug\net5.0\odev-bir-algoritma-sorulari.runtimeconfig.dev.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\odev-bir-algoritma-sorulari\bin\Debug\net5.0\odev-bir-algoritma-sorulari.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\odev-bir-algoritma-sorulari\bin\Debug\net5.0\ref\odev-bir-algoritma-sorulari.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\odev-bir-algoritma-sorulari\bin\Debug\net5.0\odev-bir-algoritma-sorulari.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\odev-bir-algoritma-sorulari\obj\Debug\net5.0\odev-bir-algoritma-sorulari.csprojAssemblyReference.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\odev-bir-algoritma-sorulari\obj\Debug\net5.0\odev-bir-algoritma-sorulari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\odev-bir-algoritma-sorulari\obj\Debug\net5.0\odev-bir-algoritma-sorulari.AssemblyInfoInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\odev-bir-algoritma-sorulari\obj\Debug\net5.0\odev-bir-algoritma-sorulari.AssemblyInfo.cs
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\odev-bir-algoritma-sorulari\obj\Debug\net5.0\odev-bir-algoritma-sorulari.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\odev-bir-algoritma-sorulari\obj\Debug\net5.0\odev-bir-algoritma-sorulari.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\odev-bir-algoritma-sorulari\obj\Debug\net5.0\ref\odev-bir-algoritma-sorulari.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\odev-bir-algoritma-sorulari\obj\Debug\net5.0\odev-bir-algoritma-sorulari.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\odev-bir-algoritma-sorulari\obj\Debug\net5.0\odev-bir-algoritma-sorulari.genruntimeconfig.cache
