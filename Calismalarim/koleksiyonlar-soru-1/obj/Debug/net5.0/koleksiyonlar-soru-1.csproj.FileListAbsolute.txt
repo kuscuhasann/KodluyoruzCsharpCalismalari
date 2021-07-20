@@ -1,0 +1,16 @@
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-soru-1\bin\Debug\net5.0\koleksiyonlar-soru-1.exe
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-soru-1\bin\Debug\net5.0\koleksiyonlar-soru-1.deps.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-soru-1\bin\Debug\net5.0\koleksiyonlar-soru-1.runtimeconfig.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-soru-1\bin\Debug\net5.0\koleksiyonlar-soru-1.runtimeconfig.dev.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-soru-1\bin\Debug\net5.0\koleksiyonlar-soru-1.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-soru-1\bin\Debug\net5.0\ref\koleksiyonlar-soru-1.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-soru-1\bin\Debug\net5.0\koleksiyonlar-soru-1.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-soru-1\obj\Debug\net5.0\koleksiyonlar-soru-1.csprojAssemblyReference.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-soru-1\obj\Debug\net5.0\koleksiyonlar-soru-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-soru-1\obj\Debug\net5.0\koleksiyonlar-soru-1.AssemblyInfoInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-soru-1\obj\Debug\net5.0\koleksiyonlar-soru-1.AssemblyInfo.cs
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-soru-1\obj\Debug\net5.0\koleksiyonlar-soru-1.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-soru-1\obj\Debug\net5.0\koleksiyonlar-soru-1.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-soru-1\obj\Debug\net5.0\ref\koleksiyonlar-soru-1.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-soru-1\obj\Debug\net5.0\koleksiyonlar-soru-1.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-soru-1\obj\Debug\net5.0\koleksiyonlar-soru-1.genruntimeconfig.cache
