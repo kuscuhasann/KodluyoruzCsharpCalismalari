@@ -59,6 +59,9 @@ namespace koleksiyonlar_array_list
             {
                 Console.WriteLine(item);
             }
+
+            //Clear=>listeyi temizler
+            liste.Clear();
         }
     }
 }

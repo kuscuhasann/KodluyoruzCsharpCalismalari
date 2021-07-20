@@ -1,0 +1,16 @@
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-dort-dictionary\bin\Debug\net5.0\koleksiyonlar-dort-dictionary.exe
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-dort-dictionary\bin\Debug\net5.0\koleksiyonlar-dort-dictionary.deps.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-dort-dictionary\bin\Debug\net5.0\koleksiyonlar-dort-dictionary.runtimeconfig.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-dort-dictionary\bin\Debug\net5.0\koleksiyonlar-dort-dictionary.runtimeconfig.dev.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-dort-dictionary\bin\Debug\net5.0\koleksiyonlar-dort-dictionary.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-dort-dictionary\bin\Debug\net5.0\ref\koleksiyonlar-dort-dictionary.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-dort-dictionary\bin\Debug\net5.0\koleksiyonlar-dort-dictionary.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-dort-dictionary\obj\Debug\net5.0\koleksiyonlar-dort-dictionary.csprojAssemblyReference.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-dort-dictionary\obj\Debug\net5.0\koleksiyonlar-dort-dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-dort-dictionary\obj\Debug\net5.0\koleksiyonlar-dort-dictionary.AssemblyInfoInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-dort-dictionary\obj\Debug\net5.0\koleksiyonlar-dort-dictionary.AssemblyInfo.cs
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-dort-dictionary\obj\Debug\net5.0\koleksiyonlar-dort-dictionary.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-dort-dictionary\obj\Debug\net5.0\koleksiyonlar-dort-dictionary.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-dort-dictionary\obj\Debug\net5.0\ref\koleksiyonlar-dort-dictionary.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-dort-dictionary\obj\Debug\net5.0\koleksiyonlar-dort-dictionary.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-dort-dictionary\obj\Debug\net5.0\koleksiyonlar-dort-dictionary.genruntimeconfig.cache
