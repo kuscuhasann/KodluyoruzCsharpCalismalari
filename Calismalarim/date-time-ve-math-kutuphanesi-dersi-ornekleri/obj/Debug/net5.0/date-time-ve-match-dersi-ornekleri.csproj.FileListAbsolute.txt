@@ -1,0 +1,16 @@
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\date-time-ve-math-kutuphanesi-dersi-ornekleri\bin\Debug\net5.0\date-time-ve-match-dersi-ornekleri.exe
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\date-time-ve-math-kutuphanesi-dersi-ornekleri\bin\Debug\net5.0\date-time-ve-match-dersi-ornekleri.deps.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\date-time-ve-math-kutuphanesi-dersi-ornekleri\bin\Debug\net5.0\date-time-ve-match-dersi-ornekleri.runtimeconfig.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\date-time-ve-math-kutuphanesi-dersi-ornekleri\bin\Debug\net5.0\date-time-ve-match-dersi-ornekleri.runtimeconfig.dev.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\date-time-ve-math-kutuphanesi-dersi-ornekleri\bin\Debug\net5.0\date-time-ve-match-dersi-ornekleri.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\date-time-ve-math-kutuphanesi-dersi-ornekleri\bin\Debug\net5.0\ref\date-time-ve-match-dersi-ornekleri.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\date-time-ve-math-kutuphanesi-dersi-ornekleri\bin\Debug\net5.0\date-time-ve-match-dersi-ornekleri.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\date-time-ve-math-kutuphanesi-dersi-ornekleri\obj\Debug\net5.0\date-time-ve-match-dersi-ornekleri.csprojAssemblyReference.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\date-time-ve-math-kutuphanesi-dersi-ornekleri\obj\Debug\net5.0\date-time-ve-match-dersi-ornekleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\date-time-ve-math-kutuphanesi-dersi-ornekleri\obj\Debug\net5.0\date-time-ve-match-dersi-ornekleri.AssemblyInfoInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\date-time-ve-math-kutuphanesi-dersi-ornekleri\obj\Debug\net5.0\date-time-ve-match-dersi-ornekleri.AssemblyInfo.cs
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\date-time-ve-math-kutuphanesi-dersi-ornekleri\obj\Debug\net5.0\date-time-ve-match-dersi-ornekleri.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\date-time-ve-math-kutuphanesi-dersi-ornekleri\obj\Debug\net5.0\date-time-ve-match-dersi-ornekleri.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\date-time-ve-math-kutuphanesi-dersi-ornekleri\obj\Debug\net5.0\ref\date-time-ve-match-dersi-ornekleri.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\date-time-ve-math-kutuphanesi-dersi-ornekleri\obj\Debug\net5.0\date-time-ve-match-dersi-ornekleri.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\date-time-ve-math-kutuphanesi-dersi-ornekleri\obj\Debug\net5.0\date-time-ve-match-dersi-ornekleri.genruntimeconfig.cache

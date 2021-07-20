@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "date-time-ve-match-dersi-ornekleri/1.0.0": {
+        "runtime": {
+          "date-time-ve-match-dersi-ornekleri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "date-time-ve-match-dersi-ornekleri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

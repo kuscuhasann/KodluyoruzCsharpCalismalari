@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\turku\\OneDrive\\Belgeler\\GitHub\\KodluyoruzCsharpCalismalari\\Calismalarim\\date-time-ve-match-dersi-ornekleri\\date-time-ve-match-dersi-ornekleri.csproj",
+      "projectUniqueName": "C:\\Users\\turku\\OneDrive\\Belgeler\\GitHub\\KodluyoruzCsharpCalismalari\\Calismalarim\\date-time-ve-math-kutuphanesi-dersi-ornekleri\\date-time-ve-match-dersi-ornekleri.csproj",
       "projectName": "date-time-ve-match-dersi-ornekleri",
-      "projectPath": "C:\\Users\\turku\\OneDrive\\Belgeler\\GitHub\\KodluyoruzCsharpCalismalari\\Calismalarim\\date-time-ve-match-dersi-ornekleri\\date-time-ve-match-dersi-ornekleri.csproj",
+      "projectPath": "C:\\Users\\turku\\OneDrive\\Belgeler\\GitHub\\KodluyoruzCsharpCalismalari\\Calismalarim\\date-time-ve-math-kutuphanesi-dersi-ornekleri\\date-time-ve-match-dersi-ornekleri.csproj",
       "packagesPath": "C:\\Users\\turku\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\turku\\OneDrive\\Belgeler\\GitHub\\KodluyoruzCsharpCalismalari\\Calismalarim\\date-time-ve-match-dersi-ornekleri\\obj\\",
+      "outputPath": "C:\\Users\\turku\\OneDrive\\Belgeler\\GitHub\\KodluyoruzCsharpCalismalari\\Calismalarim\\date-time-ve-math-kutuphanesi-dersi-ornekleri\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
