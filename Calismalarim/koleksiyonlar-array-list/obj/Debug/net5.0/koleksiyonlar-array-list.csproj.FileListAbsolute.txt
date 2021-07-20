@@ -1,0 +1,16 @@
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-array-list\bin\Debug\net5.0\koleksiyonlar-array-list.exe
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-array-list\bin\Debug\net5.0\koleksiyonlar-array-list.deps.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-array-list\bin\Debug\net5.0\koleksiyonlar-array-list.runtimeconfig.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-array-list\bin\Debug\net5.0\koleksiyonlar-array-list.runtimeconfig.dev.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-array-list\bin\Debug\net5.0\koleksiyonlar-array-list.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-array-list\bin\Debug\net5.0\ref\koleksiyonlar-array-list.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-array-list\bin\Debug\net5.0\koleksiyonlar-array-list.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-array-list\obj\Debug\net5.0\koleksiyonlar-array-list.csprojAssemblyReference.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-array-list\obj\Debug\net5.0\koleksiyonlar-array-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-array-list\obj\Debug\net5.0\koleksiyonlar-array-list.AssemblyInfoInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-array-list\obj\Debug\net5.0\koleksiyonlar-array-list.AssemblyInfo.cs
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-array-list\obj\Debug\net5.0\koleksiyonlar-array-list.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-array-list\obj\Debug\net5.0\koleksiyonlar-array-list.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-array-list\obj\Debug\net5.0\ref\koleksiyonlar-array-list.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-array-list\obj\Debug\net5.0\koleksiyonlar-array-list.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\koleksiyonlar-array-list\obj\Debug\net5.0\koleksiyonlar-array-list.genruntimeconfig.cache
