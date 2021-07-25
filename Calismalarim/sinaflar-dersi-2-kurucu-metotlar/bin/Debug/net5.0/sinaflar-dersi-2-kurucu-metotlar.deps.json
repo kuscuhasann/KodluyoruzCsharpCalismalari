@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "sinaflar-dersi-2-kurucu-metotlar/1.0.0": {
+        "runtime": {
+          "sinaflar-dersi-2-kurucu-metotlar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sinaflar-dersi-2-kurucu-metotlar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

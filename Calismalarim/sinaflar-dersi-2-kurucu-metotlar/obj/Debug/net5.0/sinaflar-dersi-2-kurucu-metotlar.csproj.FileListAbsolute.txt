@@ -1,0 +1,16 @@
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\sinaflar-dersi-2-kurucu-metotlar\bin\Debug\net5.0\sinaflar-dersi-2-kurucu-metotlar.exe
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\sinaflar-dersi-2-kurucu-metotlar\bin\Debug\net5.0\sinaflar-dersi-2-kurucu-metotlar.deps.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\sinaflar-dersi-2-kurucu-metotlar\bin\Debug\net5.0\sinaflar-dersi-2-kurucu-metotlar.runtimeconfig.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\sinaflar-dersi-2-kurucu-metotlar\bin\Debug\net5.0\sinaflar-dersi-2-kurucu-metotlar.runtimeconfig.dev.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\sinaflar-dersi-2-kurucu-metotlar\bin\Debug\net5.0\sinaflar-dersi-2-kurucu-metotlar.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\sinaflar-dersi-2-kurucu-metotlar\bin\Debug\net5.0\ref\sinaflar-dersi-2-kurucu-metotlar.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\sinaflar-dersi-2-kurucu-metotlar\bin\Debug\net5.0\sinaflar-dersi-2-kurucu-metotlar.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\sinaflar-dersi-2-kurucu-metotlar\obj\Debug\net5.0\sinaflar-dersi-2-kurucu-metotlar.csprojAssemblyReference.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\sinaflar-dersi-2-kurucu-metotlar\obj\Debug\net5.0\sinaflar-dersi-2-kurucu-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\sinaflar-dersi-2-kurucu-metotlar\obj\Debug\net5.0\sinaflar-dersi-2-kurucu-metotlar.AssemblyInfoInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\sinaflar-dersi-2-kurucu-metotlar\obj\Debug\net5.0\sinaflar-dersi-2-kurucu-metotlar.AssemblyInfo.cs
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\sinaflar-dersi-2-kurucu-metotlar\obj\Debug\net5.0\sinaflar-dersi-2-kurucu-metotlar.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\sinaflar-dersi-2-kurucu-metotlar\obj\Debug\net5.0\sinaflar-dersi-2-kurucu-metotlar.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\sinaflar-dersi-2-kurucu-metotlar\obj\Debug\net5.0\ref\sinaflar-dersi-2-kurucu-metotlar.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\sinaflar-dersi-2-kurucu-metotlar\obj\Debug\net5.0\sinaflar-dersi-2-kurucu-metotlar.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\sinaflar-dersi-2-kurucu-metotlar\obj\Debug\net5.0\sinaflar-dersi-2-kurucu-metotlar.genruntimeconfig.cache
