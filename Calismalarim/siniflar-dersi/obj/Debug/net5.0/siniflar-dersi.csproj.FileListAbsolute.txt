@@ -1,0 +1,16 @@
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi\bin\Debug\net5.0\siniflar-dersi.exe
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi\bin\Debug\net5.0\siniflar-dersi.deps.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi\bin\Debug\net5.0\siniflar-dersi.runtimeconfig.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi\bin\Debug\net5.0\siniflar-dersi.runtimeconfig.dev.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi\bin\Debug\net5.0\siniflar-dersi.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi\bin\Debug\net5.0\ref\siniflar-dersi.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi\bin\Debug\net5.0\siniflar-dersi.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi\obj\Debug\net5.0\siniflar-dersi.csprojAssemblyReference.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi\obj\Debug\net5.0\siniflar-dersi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi\obj\Debug\net5.0\siniflar-dersi.AssemblyInfoInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi\obj\Debug\net5.0\siniflar-dersi.AssemblyInfo.cs
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi\obj\Debug\net5.0\siniflar-dersi.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi\obj\Debug\net5.0\siniflar-dersi.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi\obj\Debug\net5.0\ref\siniflar-dersi.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi\obj\Debug\net5.0\siniflar-dersi.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi\obj\Debug\net5.0\siniflar-dersi.genruntimeconfig.cache

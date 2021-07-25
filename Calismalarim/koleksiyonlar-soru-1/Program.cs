@@ -14,7 +14,7 @@ namespace koleksiyonlar_soru_1
             // Her bir dizinin elemanlarını büyükten küçüğe olacak şekilde ekrana yazdırın.
             // Her iki dizinin eleman sayısını ve ortalamasını ekrana yazdırın.
 
-            //Tanımlamalar  
+            //Tanımlamalar 
             int girilenSayi=0;
             bool asalDegilMi=false;
             int asalToplam=0,asalOlmayanToplam=0;

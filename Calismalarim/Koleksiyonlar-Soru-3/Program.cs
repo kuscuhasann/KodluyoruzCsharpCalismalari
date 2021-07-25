@@ -17,6 +17,7 @@ namespace Koleksiyonlar_Soru_3
                 ArrayList harfListesi=new ArrayList();
                 ArrayList sesliHarflerListesi=new ArrayList();
                 string[] sesliHarfler = {"a","e","ı","i","o","ö","u","ü"};
+                
 
                 Console.WriteLine("Lütfen bir cümle giriniz : ");
                 cumle=Console.ReadLine();
