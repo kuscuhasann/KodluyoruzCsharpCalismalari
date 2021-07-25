@@ -1,0 +1,16 @@
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi-kapsülleme-propertyler\bin\Debug\net5.0\siniflar-dersi-kapsülleme-propertyler.exe
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi-kapsülleme-propertyler\bin\Debug\net5.0\siniflar-dersi-kapsülleme-propertyler.deps.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi-kapsülleme-propertyler\bin\Debug\net5.0\siniflar-dersi-kapsülleme-propertyler.runtimeconfig.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi-kapsülleme-propertyler\bin\Debug\net5.0\siniflar-dersi-kapsülleme-propertyler.runtimeconfig.dev.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi-kapsülleme-propertyler\bin\Debug\net5.0\siniflar-dersi-kapsülleme-propertyler.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi-kapsülleme-propertyler\bin\Debug\net5.0\ref\siniflar-dersi-kapsülleme-propertyler.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi-kapsülleme-propertyler\bin\Debug\net5.0\siniflar-dersi-kapsülleme-propertyler.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi-kapsülleme-propertyler\obj\Debug\net5.0\siniflar-dersi-kapsülleme-propertyler.csprojAssemblyReference.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi-kapsülleme-propertyler\obj\Debug\net5.0\siniflar-dersi-kapsülleme-propertyler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi-kapsülleme-propertyler\obj\Debug\net5.0\siniflar-dersi-kapsülleme-propertyler.AssemblyInfoInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi-kapsülleme-propertyler\obj\Debug\net5.0\siniflar-dersi-kapsülleme-propertyler.AssemblyInfo.cs
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi-kapsülleme-propertyler\obj\Debug\net5.0\siniflar-dersi-kapsülleme-propertyler.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi-kapsülleme-propertyler\obj\Debug\net5.0\siniflar-dersi-kapsülleme-propertyler.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi-kapsülleme-propertyler\obj\Debug\net5.0\ref\siniflar-dersi-kapsülleme-propertyler.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi-kapsülleme-propertyler\obj\Debug\net5.0\siniflar-dersi-kapsülleme-propertyler.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi-kapsülleme-propertyler\obj\Debug\net5.0\siniflar-dersi-kapsülleme-propertyler.genruntimeconfig.cache

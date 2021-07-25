@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "siniflar-dersi-kapsülleme-propertyler/1.0.0": {
+        "runtime": {
+          "siniflar-dersi-kapsülleme-propertyler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "siniflar-dersi-kapsülleme-propertyler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
