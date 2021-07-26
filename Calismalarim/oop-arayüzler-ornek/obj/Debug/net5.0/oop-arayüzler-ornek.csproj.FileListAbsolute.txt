@@ -1,0 +1,16 @@
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-arayüzler-ornek\bin\Debug\net5.0\oop-arayüzler-ornek.exe
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-arayüzler-ornek\bin\Debug\net5.0\oop-arayüzler-ornek.deps.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-arayüzler-ornek\bin\Debug\net5.0\oop-arayüzler-ornek.runtimeconfig.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-arayüzler-ornek\bin\Debug\net5.0\oop-arayüzler-ornek.runtimeconfig.dev.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-arayüzler-ornek\bin\Debug\net5.0\oop-arayüzler-ornek.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-arayüzler-ornek\bin\Debug\net5.0\ref\oop-arayüzler-ornek.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-arayüzler-ornek\bin\Debug\net5.0\oop-arayüzler-ornek.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-arayüzler-ornek\obj\Debug\net5.0\oop-arayüzler-ornek.csprojAssemblyReference.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-arayüzler-ornek\obj\Debug\net5.0\oop-arayüzler-ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-arayüzler-ornek\obj\Debug\net5.0\oop-arayüzler-ornek.AssemblyInfoInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-arayüzler-ornek\obj\Debug\net5.0\oop-arayüzler-ornek.AssemblyInfo.cs
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-arayüzler-ornek\obj\Debug\net5.0\oop-arayüzler-ornek.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-arayüzler-ornek\obj\Debug\net5.0\oop-arayüzler-ornek.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-arayüzler-ornek\obj\Debug\net5.0\ref\oop-arayüzler-ornek.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-arayüzler-ornek\obj\Debug\net5.0\oop-arayüzler-ornek.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-arayüzler-ornek\obj\Debug\net5.0\oop-arayüzler-ornek.genruntimeconfig.cache
