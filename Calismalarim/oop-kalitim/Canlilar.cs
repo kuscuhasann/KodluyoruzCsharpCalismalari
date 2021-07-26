@@ -13,5 +13,8 @@ namespace oop_kalitim
         protected void Bosaltim(){
             Console.WriteLine("Canlılar Boşaltım Yapar");
         }
+        public virtual void uyaranlaraTepki(){
+            Console.WriteLine("Canlılar Uyaranlara Tepki verir.");
+        }
     }
 }

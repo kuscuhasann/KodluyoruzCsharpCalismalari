@@ -12,11 +12,17 @@ namespace oop_kalitim
         protected void Adaptasyon(){
             Console.WriteLine("Hayvanlar Adaptasyon kurabilir");
         }
+        public override void uyaranlaraTepki()
+        {
+            base.uyaranlaraTepki();
+            Console.WriteLine("Hayvanlar temasa tepki verir.");
+        }
     }
     public class Surungenler:Hayvanlar
     {
         public Surungenler(){
             base.Adaptasyon();
+            base.uyaranlaraTepki();
         }
         public void surunerekHareketEtmek(){
             Console.WriteLine("Sürüngenler sürünerek hareket ederler");
@@ -26,6 +32,7 @@ namespace oop_kalitim
     {
         public Kuslar(){
             base.Adaptasyon();
+            base.uyaranlaraTepki();
          }
         public void Ucmak(){
             Console.WriteLine("Kuşlar uçar");

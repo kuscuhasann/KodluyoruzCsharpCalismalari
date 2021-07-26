@@ -12,12 +12,18 @@ namespace oop_kalitim
         protected void fotosentezYapmak(){
             Console.WriteLine("Bitkiler fotosentez yapar");
         }
+        public override void uyaranlaraTepki()
+        {
+            base.uyaranlaraTepki();
+            Console.WriteLine("Bitkiler güneşe tepki verir.");
+        }
     }
     public class TohumluBitkiler:Bitkiler
     {
         public TohumluBitkiler()
         {
             base.fotosentezYapmak();
+            base.uyaranlaraTepki();
         }
         public void tohumlaCogalma(){
             Console.WriteLine("Tohumlu bitkiler tohumla çoğalır");
@@ -28,6 +34,7 @@ namespace oop_kalitim
           public TohumsuzBitkiler()
         {
             base.fotosentezYapmak();
+            base.uyaranlaraTepki();
         }
         public void tohumsuzCogalma(){
             Console.WriteLine("Tohumsuz bitkiler sporla çoğalır");
