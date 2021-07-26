@@ -1,0 +1,16 @@
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-abstract-class\bin\Debug\net5.0\oop-abstract-class.exe
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-abstract-class\bin\Debug\net5.0\oop-abstract-class.deps.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-abstract-class\bin\Debug\net5.0\oop-abstract-class.runtimeconfig.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-abstract-class\bin\Debug\net5.0\oop-abstract-class.runtimeconfig.dev.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-abstract-class\bin\Debug\net5.0\oop-abstract-class.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-abstract-class\bin\Debug\net5.0\ref\oop-abstract-class.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-abstract-class\bin\Debug\net5.0\oop-abstract-class.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-abstract-class\obj\Debug\net5.0\oop-abstract-class.csprojAssemblyReference.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-abstract-class\obj\Debug\net5.0\oop-abstract-class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-abstract-class\obj\Debug\net5.0\oop-abstract-class.AssemblyInfoInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-abstract-class\obj\Debug\net5.0\oop-abstract-class.AssemblyInfo.cs
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-abstract-class\obj\Debug\net5.0\oop-abstract-class.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-abstract-class\obj\Debug\net5.0\oop-abstract-class.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-abstract-class\obj\Debug\net5.0\ref\oop-abstract-class.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-abstract-class\obj\Debug\net5.0\oop-abstract-class.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-abstract-class\obj\Debug\net5.0\oop-abstract-class.genruntimeconfig.cache
