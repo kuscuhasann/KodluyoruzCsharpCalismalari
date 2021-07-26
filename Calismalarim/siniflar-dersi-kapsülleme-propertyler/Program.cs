@@ -72,6 +72,8 @@ namespace siniflar_dersi_kapsülleme_propertyler
         }
         public void sinifAtlat()
         {
+            //Getter Setter Adlandırması çok önemli sınıfın propertilerine erişip düşürmeye çalıştığım için 5 dk kaybettim
+            //Çağırıldığında getter setterda ki adıyla olmalıdır. Kendime Not..
             this.OgrenciSinifi+=1;
         }
         public void sinifDusur()

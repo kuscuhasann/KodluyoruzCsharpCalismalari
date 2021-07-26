@@ -1,0 +1,16 @@
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi-3-static-siniflar-uyeleri\bin\Debug\net5.0\siniflar-dersi-3-static-siniflar-uyeleri.exe
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi-3-static-siniflar-uyeleri\bin\Debug\net5.0\siniflar-dersi-3-static-siniflar-uyeleri.deps.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi-3-static-siniflar-uyeleri\bin\Debug\net5.0\siniflar-dersi-3-static-siniflar-uyeleri.runtimeconfig.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi-3-static-siniflar-uyeleri\bin\Debug\net5.0\siniflar-dersi-3-static-siniflar-uyeleri.runtimeconfig.dev.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi-3-static-siniflar-uyeleri\bin\Debug\net5.0\siniflar-dersi-3-static-siniflar-uyeleri.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi-3-static-siniflar-uyeleri\bin\Debug\net5.0\ref\siniflar-dersi-3-static-siniflar-uyeleri.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi-3-static-siniflar-uyeleri\bin\Debug\net5.0\siniflar-dersi-3-static-siniflar-uyeleri.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi-3-static-siniflar-uyeleri\obj\Debug\net5.0\siniflar-dersi-3-static-siniflar-uyeleri.csprojAssemblyReference.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi-3-static-siniflar-uyeleri\obj\Debug\net5.0\siniflar-dersi-3-static-siniflar-uyeleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi-3-static-siniflar-uyeleri\obj\Debug\net5.0\siniflar-dersi-3-static-siniflar-uyeleri.AssemblyInfoInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi-3-static-siniflar-uyeleri\obj\Debug\net5.0\siniflar-dersi-3-static-siniflar-uyeleri.AssemblyInfo.cs
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi-3-static-siniflar-uyeleri\obj\Debug\net5.0\siniflar-dersi-3-static-siniflar-uyeleri.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi-3-static-siniflar-uyeleri\obj\Debug\net5.0\siniflar-dersi-3-static-siniflar-uyeleri.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi-3-static-siniflar-uyeleri\obj\Debug\net5.0\ref\siniflar-dersi-3-static-siniflar-uyeleri.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi-3-static-siniflar-uyeleri\obj\Debug\net5.0\siniflar-dersi-3-static-siniflar-uyeleri.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\siniflar-dersi-3-static-siniflar-uyeleri\obj\Debug\net5.0\siniflar-dersi-3-static-siniflar-uyeleri.genruntimeconfig.cache
