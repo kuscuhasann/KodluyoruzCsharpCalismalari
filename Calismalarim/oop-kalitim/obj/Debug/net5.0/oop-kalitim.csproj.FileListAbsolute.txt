@@ -1,0 +1,16 @@
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-kalitim\bin\Debug\net5.0\oop-kalitim.exe
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-kalitim\bin\Debug\net5.0\oop-kalitim.deps.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-kalitim\bin\Debug\net5.0\oop-kalitim.runtimeconfig.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-kalitim\bin\Debug\net5.0\oop-kalitim.runtimeconfig.dev.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-kalitim\bin\Debug\net5.0\oop-kalitim.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-kalitim\bin\Debug\net5.0\ref\oop-kalitim.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-kalitim\bin\Debug\net5.0\oop-kalitim.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-kalitim\obj\Debug\net5.0\oop-kalitim.csprojAssemblyReference.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-kalitim\obj\Debug\net5.0\oop-kalitim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-kalitim\obj\Debug\net5.0\oop-kalitim.AssemblyInfoInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-kalitim\obj\Debug\net5.0\oop-kalitim.AssemblyInfo.cs
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-kalitim\obj\Debug\net5.0\oop-kalitim.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-kalitim\obj\Debug\net5.0\oop-kalitim.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-kalitim\obj\Debug\net5.0\ref\oop-kalitim.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-kalitim\obj\Debug\net5.0\oop-kalitim.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-kalitim\obj\Debug\net5.0\oop-kalitim.genruntimeconfig.cache
