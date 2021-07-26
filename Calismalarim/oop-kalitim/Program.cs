@@ -6,6 +6,23 @@ namespace oop_kalitim
     {
         static void Main(string[] args)
         {
+            //Notlar sealed bir klasa verirlirsa o class kalıtım veremez
+            //Overrida sınıflarda gösterilmiştir.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
             // TohumluBitkiler tohumluBitki=new TohumluBitkiler();
             //Canlılar Sınıfından beslenme metodunun katılım ile almaktadır.
             //3 metodu canli olduğu için almıştır.

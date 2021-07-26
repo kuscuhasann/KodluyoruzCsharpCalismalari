@@ -1,0 +1,16 @@
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-arayüzler\bin\Debug\net5.0\oop-arayüzler.exe
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-arayüzler\bin\Debug\net5.0\oop-arayüzler.deps.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-arayüzler\bin\Debug\net5.0\oop-arayüzler.runtimeconfig.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-arayüzler\bin\Debug\net5.0\oop-arayüzler.runtimeconfig.dev.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-arayüzler\bin\Debug\net5.0\oop-arayüzler.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-arayüzler\bin\Debug\net5.0\ref\oop-arayüzler.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-arayüzler\bin\Debug\net5.0\oop-arayüzler.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-arayüzler\obj\Debug\net5.0\oop-arayüzler.csprojAssemblyReference.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-arayüzler\obj\Debug\net5.0\oop-arayüzler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-arayüzler\obj\Debug\net5.0\oop-arayüzler.AssemblyInfoInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-arayüzler\obj\Debug\net5.0\oop-arayüzler.AssemblyInfo.cs
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-arayüzler\obj\Debug\net5.0\oop-arayüzler.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-arayüzler\obj\Debug\net5.0\oop-arayüzler.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-arayüzler\obj\Debug\net5.0\ref\oop-arayüzler.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-arayüzler\obj\Debug\net5.0\oop-arayüzler.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\oop-arayüzler\obj\Debug\net5.0\oop-arayüzler.genruntimeconfig.cache
