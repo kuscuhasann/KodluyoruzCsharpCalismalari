@@ -1,0 +1,16 @@
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\enum-ornekler\bin\Debug\net5.0\enum-ornekler.exe
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\enum-ornekler\bin\Debug\net5.0\enum-ornekler.deps.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\enum-ornekler\bin\Debug\net5.0\enum-ornekler.runtimeconfig.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\enum-ornekler\bin\Debug\net5.0\enum-ornekler.runtimeconfig.dev.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\enum-ornekler\bin\Debug\net5.0\enum-ornekler.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\enum-ornekler\bin\Debug\net5.0\ref\enum-ornekler.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\enum-ornekler\bin\Debug\net5.0\enum-ornekler.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\enum-ornekler\obj\Debug\net5.0\enum-ornekler.csprojAssemblyReference.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\enum-ornekler\obj\Debug\net5.0\enum-ornekler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\enum-ornekler\obj\Debug\net5.0\enum-ornekler.AssemblyInfoInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\enum-ornekler\obj\Debug\net5.0\enum-ornekler.AssemblyInfo.cs
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\enum-ornekler\obj\Debug\net5.0\enum-ornekler.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\enum-ornekler\obj\Debug\net5.0\enum-ornekler.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\enum-ornekler\obj\Debug\net5.0\ref\enum-ornekler.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\enum-ornekler\obj\Debug\net5.0\enum-ornekler.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\enum-ornekler\obj\Debug\net5.0\enum-ornekler.genruntimeconfig.cache
