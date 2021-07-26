@@ -48,6 +48,8 @@ namespace siniflar_dersi_3_static_siniflar_uyeleri
 
     static class Islemler
     {
+        //Statik sınıfların içinde statik olmayan bir obje tanımlanamaz.
+        //Statik sınıflar staik sınıflara kalıtım uygulanamaz
         public static long Topla(int sayi1,int sayi2)
         {
             return sayi1+sayi2;
