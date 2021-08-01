@@ -1,0 +1,16 @@
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\proje-1-telefon-rehberi-uygulamsi\bin\Debug\net5.0\proje-1-telefon-rehberi-uygulamsi.exe
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\proje-1-telefon-rehberi-uygulamsi\bin\Debug\net5.0\proje-1-telefon-rehberi-uygulamsi.deps.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\proje-1-telefon-rehberi-uygulamsi\bin\Debug\net5.0\proje-1-telefon-rehberi-uygulamsi.runtimeconfig.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\proje-1-telefon-rehberi-uygulamsi\bin\Debug\net5.0\proje-1-telefon-rehberi-uygulamsi.runtimeconfig.dev.json
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\proje-1-telefon-rehberi-uygulamsi\bin\Debug\net5.0\proje-1-telefon-rehberi-uygulamsi.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\proje-1-telefon-rehberi-uygulamsi\bin\Debug\net5.0\ref\proje-1-telefon-rehberi-uygulamsi.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\proje-1-telefon-rehberi-uygulamsi\bin\Debug\net5.0\proje-1-telefon-rehberi-uygulamsi.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\proje-1-telefon-rehberi-uygulamsi\obj\Debug\net5.0\proje-1-telefon-rehberi-uygulamsi.csprojAssemblyReference.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\proje-1-telefon-rehberi-uygulamsi\obj\Debug\net5.0\proje-1-telefon-rehberi-uygulamsi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\proje-1-telefon-rehberi-uygulamsi\obj\Debug\net5.0\proje-1-telefon-rehberi-uygulamsi.AssemblyInfoInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\proje-1-telefon-rehberi-uygulamsi\obj\Debug\net5.0\proje-1-telefon-rehberi-uygulamsi.AssemblyInfo.cs
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\proje-1-telefon-rehberi-uygulamsi\obj\Debug\net5.0\proje-1-telefon-rehberi-uygulamsi.csproj.CoreCompileInputs.cache
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\proje-1-telefon-rehberi-uygulamsi\obj\Debug\net5.0\proje-1-telefon-rehberi-uygulamsi.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\proje-1-telefon-rehberi-uygulamsi\obj\Debug\net5.0\ref\proje-1-telefon-rehberi-uygulamsi.dll
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\proje-1-telefon-rehberi-uygulamsi\obj\Debug\net5.0\proje-1-telefon-rehberi-uygulamsi.pdb
+C:\Users\turku\OneDrive\Belgeler\GitHub\KodluyoruzCsharpCalismalari\Calismalarim\proje-1-telefon-rehberi-uygulamsi\obj\Debug\net5.0\proje-1-telefon-rehberi-uygulamsi.genruntimeconfig.cache
