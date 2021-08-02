@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "YvB+Jcd/WwFOChtQ1l88ukrwgW1sSzy3Q2RJ5NqduH8VKzflvza+LVIyMMb3A6Y8uIeLVoshuYug45VjDqOvtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\turku\\OneDrive\\Belgeler\\GitHub\\KodluyoruzCsharpCalismalari\\Calismalarim\\.NET-CORE-CALİSMALARİ-5.0\\ornek-web-api-yaratmak\\ornek-web-api-yaratmak.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\turku\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\turku\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\turku\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\turku\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\turku\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\turku\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
